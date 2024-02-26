@@ -1,0 +1,88 @@
+ git --version
+  478  git status
+  479  ls
+  480  ls - ls
+  481  git init
+  482  ls -la
+  483  cd ./git
+  484  cd .git
+  485  ls -la
+  486  git status
+  487  cd ..
+  488  git status
+  489  git clone https://github.com/ashishsamal145/Front_End_training.git
+  490  ls -la
+  491  cd Front_End_training/
+  492  cd ..
+  493  cd Front_End_training
+  494  cat>>index.html
+  495  cat index.html
+  496  git status
+  497  git add index.html
+  498  git status
+  499  git commit -m "navigation bar added"
+  500  git log
+  501  git log c852f8071a9aa36879044576413de38e0147ad20
+  502  git commit navigation bar added
+  503  git config --list
+  504  git global config user.name "ashish"
+  505  git config user.name "ashish"
+  506  git config user.email "ashishsamal145@gmail.com"
+  507  git branch
+  508  git config --list
+  509  git remote -v
+  510  git push -u origin main
+  511  ls -la
+  512  cls
+  513  clear
+  514  git remote -v
+  515  git remote remove https://github.com/ashishsamal145/Front_End_training.git
+  516  git remote remove origin
+  517  git remote -v
+  518  git remote add origin origin  https://github.com/ashishsamal145/Front_End_training.git (push)
+  519  git remote add origin origin  https://github.com/ashishsamal145/Front_End_training.git
+  520  git remote add origin https://github.com/ashishsamal145/Front_End_training.git
+  521  git remote -v
+  522  touch login.html
+  523  touch regsitration.html
+  524  gitstatus
+  525  git status
+  526  git pull origin https://github.com/ashishsamal145/Front_End_training.git
+  527  git pull origin main
+  528  git pull origin main
+  529  cat index.nhtml
+  530  cat index.html
+  531  git status
+  532  cat >>index.html
+  533  cat index.html
+  534  clear
+  535  gits status
+  536  git status
+  537  git log
+  538  git log 8d39ce498efacd0cb63b472bc3d2219a839a54c2
+  539  git log --oneline
+  540  git status
+  541  git add index.html
+  542  git status
+  543  git commit -m "comments added"
+  544  git status
+  545  git push -u origin main
+  546  git log --oneline
+  547  git branch UAT
+  548  git barnch
+  549  git branch
+  550  git checkout UAT
+  551  git branch
+  552  git checkout main
+  553  git status
+  554  git add login.html
+  555  git status
+  556  git checkout UAT
+  557  git status
+  558  git commit -m "login page started"
+  559  git config --list
+  560  git remote -v
+  561  git push -u origin UAT
+  562  git branch main
+  563  history
+
